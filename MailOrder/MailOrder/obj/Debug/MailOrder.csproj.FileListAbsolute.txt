@@ -1,0 +1,10 @@
+C:\Users\parth\source\repos\MailOrder\MailOrder\bin\Debug\MailOrder.exe.config
+C:\Users\parth\source\repos\MailOrder\MailOrder\bin\Debug\MailOrder.exe
+C:\Users\parth\source\repos\MailOrder\MailOrder\bin\Debug\MailOrder.pdb
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.csprojAssemblyReference.cache
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.Properties.Resources.resources
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.csproj.GenerateResource.cache
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.exe
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.pdb
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.Sales_BonusForm.resources
+C:\Users\parth\source\repos\MailOrder\MailOrder\obj\Debug\MailOrder.csproj.CoreCompileInputs.cache
